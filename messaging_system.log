@@ -1,0 +1,8 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 21:58:42] "GET /?sendmail=marvellousfrederick@gmail.com&message=Hello%20from%20Flask%20App! HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 21:59:54] "GET /?sendmail=marvellousfrederick@gmail.com&message=Hello%20from%20Flask%20App! HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 22:00:17] "[31m[1mGET / HTTP/1.0[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 22:07:21] "[31m[1mGET / HTTP/1.0[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [12/Jul/2024 22:07:25] "[31m[1mGET / HTTP/1.0[0m" 400 -
